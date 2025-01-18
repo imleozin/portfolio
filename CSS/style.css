@@ -303,7 +303,7 @@ main section{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../assets/IMG/codes-background-main.jpg') no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url('../assets/IMG/codes-background-main.jpg') no-repeat center center;
     background-size: cover;
 }
 .text-welcome{
