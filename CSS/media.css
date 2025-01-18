@@ -1,0 +1,1563 @@
+@media (min-width: 320px){
+    /*HEADER*/
+    .div-logo-portfolio{
+        display: none;
+    }
+    .menu{
+        width: 100%;
+        justify-content: start;
+    }
+    .perfil-menu{
+        width: 90%;
+    }
+
+    /* PERFIL EXPANDED */
+    .photo-expanded .div-photo-expanded{
+        width: 90%;
+    }
+    /* PERFIL EXPANDED */
+    /*HEADER*/
+    /* SECTION WELCOME */
+    .welcome-section{
+        height: 130vh;
+    }
+    .text-welcome h1{
+        width: 100%;
+        font-size: 2rem;
+    }
+    .text-welcome h1::after{
+        width: 30%;
+    }
+    .text-welcome p{
+        width: 80%;
+    }
+    /* SECTION WELCOME */
+    /* SECTION ABOUT ME */
+    .title-about-me h2{
+        font-size: 3.85rem;
+        text-align: center;
+    }
+    .title-about-me p{
+        font-size: 1.7rem;
+    }
+    .info-about-me{
+        align-items: center;
+    }
+    .info-about-me h2{
+        font-size: 1.5rem;
+        padding-bottom: 20px;
+        width: 80%;
+    }
+    .info-about-me p{
+        width: 80%;
+        padding-right: 0px;
+        text-align: justify;
+        padding-bottom: 10px;
+    }
+    .my-career-about-me{
+        flex-wrap: wrap;
+        flex-direction: column;
+        padding-top: 20px;
+    }
+    .info-leo-about-me{
+        width: 100%;
+        align-items: center;
+        padding-right: 0px;
+        padding-bottom: 30px;
+    }
+    .info-leo-about-me ul{
+        width: 80%;
+    }
+    .info-leo-about-me a{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .info-leo-about-me button{
+        width: 80%;
+    }
+    .my-jobs-about-me{
+        width: 100%;
+        padding-right: unset;
+        padding: 0 20px;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    .my-jobs-content{
+        width: 50%;
+        padding-right: 5px;
+    }
+    /* SECTION ABOUT ME */
+    /* SECTION SKILLS */
+    .skills-title{
+        align-items: center;
+        padding: 0px;
+    }
+    .skills-title h2{
+        font-size: 5rem;
+    }
+    .skills-title p{
+        font-size: 1.2rem;
+        width: 90%;
+    }
+    .skills-content{
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .skills-item{
+        width: 100%;
+    }
+    .skills-content-2{
+        flex-wrap: wrap;
+    }
+    .skills-item-2{
+        width: 70%;
+    }
+    .skills-item-2 .img-skills-1{
+        left: 15px;
+        width: 135px;
+        height: 135px;
+    }
+    .skills-item-2 .img-skills-2{
+        right: 15px;
+        width: 135px;
+        height: 135px;
+    }
+    /* SECTION SKILLS */
+    /* EXP SECTION */
+    .exp-title{
+        align-items: center;
+        padding-left: unset;
+    }
+    .exp-title h2{
+        font-size: 2.5rem;
+    }
+    .exp-title p{
+        font-size: 1.3rem;
+    }
+    .exp-content{
+        flex-direction: column;
+        flex-wrap: wrap;
+        padding-top: 0px;
+    }
+    .exp-item{
+        width: 90%;
+        height: auto;
+    }
+    /* EXP SECTION */
+    /*PROJECT SECTION*/
+    .project-title{
+        padding-left: unset;
+    }
+    .project-title h2{
+        font-size: 3rem;
+        
+    }
+    .project-title p{
+        font-size: 1.7rem;
+        
+    }
+    .project-item .title-project-item{
+        font-size: 1.2rem;
+        padding-top: 20px;
+    }
+    .project-content{
+        flex-direction: column;
+        flex-wrap: wrap;
+        padding-top: unset;
+    }
+    .project-item{
+        width: 80%;
+        height: 255px;
+    }
+    .project-expanded{
+        height: 145vh;
+    }
+    .description-project{
+        bottom: 8px;
+    }
+
+
+    /*PROJECT EXPANDED*/
+    .project-item-expanded{
+        height: auto;
+    }
+    .content-item-project{
+        flex-direction: column;
+    }
+    .img-project-expanded{
+        width: 100%;
+    }
+    .text-project-expanded{
+        width: 100%;
+        align-items: start;
+    }
+    .text-project-expanded h3{
+        width: 100%;
+    }
+    .text-project-expanded p{
+        width: 100%;
+    }
+    
+    /*PROJECT EXPANDED*/
+    /*PROJECT SECTION*/
+    /*CONTACT SECTION*/
+    .contact-title{
+        align-items: center;
+    }
+    .contact-title h2{
+        font-size: 3.5rem;
+        padding-right: unset;
+    }
+    .contact-title p{
+        font-size: 1.4rem;
+    }
+    .content-contact{
+        flex-direction: column;
+        justify-content: start;
+        align-items: center;
+        padding: 20px;
+    }
+    .form{
+        width: 100%;
+        padding: 20px;
+    }
+
+    .info-contact{
+        width: 100%;
+        align-items: center;
+        padding-right: unset;
+        padding-top: 50px;
+    }
+    .info-contact ul{
+        align-items: center;
+    }
+    .info-contact ul li{
+        width: 100%;
+        justify-content: center;
+        padding-left: unset;
+    }
+
+    /*THANKS SECTION*/
+    .content-thanks{
+        width: 60%;
+    }
+    .content-thanks h1{
+        font-size: 1.5rem;
+    }
+    .content-thanks h2{
+        font-size: 1rem;
+    }
+    .content-thanks p{
+        font-size: 0.9rem;
+    }
+    .back-to-home{
+        padding-top: 20px;
+    }
+    .back-to-home button{
+        width: 70%;
+    }
+    /*THANKS SECTION*/
+    /*CONTACT SECTION*/
+    /* FOOTER */
+    .main-footer{
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .container-footer{
+        width: 90%;
+    }
+    .container-footer:nth-child(1){
+        align-items: center;
+    }
+    .container-footer:nth-child(2){
+        align-items: center;
+    }
+    .container-footer:nth-child(3){
+        align-items: center;
+    }
+    .rights-footer{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .nav-footer{
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+    /* FOOTER */
+}
+@media (min-width: 360px){
+    /*PROJECT SECTION*/
+    .project-item{
+        height: 267px;
+    }
+    .exp-item{
+        height: 285px;
+    }
+    /*PROJECT SECTION*/
+    /*THANKS SECTION*/
+    .thanks-section{
+        padding-top: 150px;
+    }
+    .content-thanks{
+        width: 60%;
+    }
+    .back-to-home{
+        padding-top: 50px;
+    }
+    .back-to-home button{
+        width: 70%;
+    }
+    /*THANKS SECTION*/
+}
+@media (min-width: 390px){
+
+}
+@media (min-width: 412px){
+    .skills-item-2 .img-skills-1{
+        left: 60px;
+    }
+    .skills-item-2 .img-skills-2{
+        right: 60px;
+    }
+
+    /*PROJECT SECTION*/
+    .project-item{
+        height: 280px;
+    }
+    /*PROJECT SECTION*/
+}
+@media (min-width: 640px){
+    /* PERFIL EXPANDED */
+    .photo-expanded .div-photo-expanded{
+        width: 70%;
+    }
+    /* PERFIL EXPANDED */
+    /* SECTION WELCOME */
+    .welcome-section{
+        height: 100vh;
+    }
+    .text-welcome h1{
+        font-size: 2.2rem;
+    }
+    /* SECTION WELCOME */
+    /* SECTION SKILLS */
+    .skills-item-2{
+        width: 40%;
+    }
+    .skills-item-2 .img-skills-1{
+        left: 20px;
+    }
+    .skills-item-2 .img-skills-2{
+        right: 20px;
+    }
+    .skills-item{
+        width: 95%;
+    }
+    /* SECTION SKILLS */
+    /* EXP SECTION */
+    .exp-title h2{
+        font-size: 5rem;
+    }
+    .exp-title p{
+        font-size: 2.5rem;
+    }
+    /* EXP SECTION */
+    /*PROJECT SECTION*/
+    .project-item{
+        height: 353px;
+    }
+    /*PROJECT SECTION*/
+}
+@media (min-width: 768px){
+    /*HEADER*/
+    .div-logo-portfolio{
+        display: block;
+    }
+    .menu{
+        width: 70%;
+        justify-content: end;
+    }
+    .perfil-menu{
+        width: 60%;
+    }
+    /*HEADER*/
+    /* SECTION SKILLS */
+    .skills-title h2{
+        font-size: 7rem;
+    }
+    .skills-title p{
+        font-size: 2rem;
+    }
+    .skills-item-2 .img-skills-1{
+        left: 45px;
+    }
+    .skills-item-2 .img-skills-2{
+        right: 45px;
+    }
+    /* SECTION SKILLS */
+    /* EXP SECTION */
+    .exp-item{
+        width: 80%;
+    }
+    /* EXP SECTION */
+    /*PROJECT SECTION*/
+    .project-title h2{
+        font-size: 5.85rem;
+        padding-left: unset;
+        
+    }
+    .project-title p{
+        font-size: 2.2rem;
+        
+    }
+    .project-item{
+        height: 420px;
+    }
+
+    .project-expanded{
+        height: 175vh;
+    }
+    /*PROJECT SECTION*/
+}
+@media (min-width: 800px){
+    /* PERFIL EXPANDED */
+    .photo-expanded .div-photo-expanded{
+        width: 50%;
+    }
+    /* PERFIL EXPANDED */
+    /* SECTION WELCOME */
+    .text-welcome h1{
+        font-size: 2.5rem;
+    }
+    .text-welcome h1::after{
+        width: 35%;
+    }
+    /* SECTION WELCOME */
+    /*PROJECT SECTION*/
+    .project-item{
+        height: 440px;
+    }
+    /*PROJECT SECTION*/
+}
+@media (min-width: 1024px){
+    /*HEADER*/
+    .perfil-menu{
+        width: 50%;
+    }
+    /*HEADER*/
+    /* SECTION WELCOME */
+    .text-welcome h1{
+        font-size: 3rem;
+        width: 70%;
+    }
+    .text-welcome p{
+        width: 50%;
+    }
+    /* SECTION WELCOME */
+    /* SECTION ABOUT ME */
+    .title-about-me h2{
+        font-size: 6.5rem;
+        text-align: unset;
+    }
+    .title-about-me p{
+        font-size: 2.5rem;
+    }
+    .info-about-me h2{
+        font-size: 1.8rem;
+    }
+    /* SECTION ABOUT ME */
+    /* SECTION SKILLS */
+    .skills-title h2{
+        font-size: 7.5rem;
+    }
+    .skills-title p{
+        font-size: 2.5rem;
+        width: 60%;
+    }
+    .skills-item{
+        width: 90%;
+    }
+    .skills-item-2 .img-skills-1{
+        left: 75px;
+    }
+    .skills-item-2 .img-skills-2{
+        right: 75px;
+    }
+    /* SECTION SKILLS */
+    /*PROJECT SECTION*/
+    .project-item{
+        height: 520px;
+    }
+    /*PROJECT SECTION*/
+}
+@media (min-width: 1114px){
+    /* SECTION SKILLS */
+    .skills-item-2 .img-skills-1{
+        left: 100px;
+    }
+    .skills-item-2 .img-skills-2{
+        right: 100px;
+    }
+    /* SECTION SKILLS */
+    /*PROJECT SECTION*/
+    .project-item{
+        height: 555px;
+    }
+    /*PROJECT SECTION*/
+}
+@media (min-width: 1280px){
+    /*HEADER*/
+    .perfil-menu{
+        width: 40%;
+    }
+        /* PERFIL EXPANDED */
+        .photo-expanded .div-photo-expanded{
+            width: 35%;
+        }
+        /* PERFIL EXPANDED */
+    /*HEADER*/
+    /* SECTION ABOUT ME */
+    .about-me-section{
+        height: 100vh;
+    }
+    .title-about-me h2{
+        font-size: 7rem;
+    }
+    .info-about-me{
+        align-items: end;
+    }
+    .info-about-me h2{
+        padding-bottom: 40px;
+        width: 100%;
+    }    
+    .info-about-me p{
+        width: 92%;
+        padding-right: 100px;
+        text-align: unset;
+        padding-bottom: 20px;
+    }
+    .my-career-about-me{
+        flex-wrap: nowrap;
+        flex-direction: row;
+    }
+    .info-leo-about-me{
+        width: 40%;
+        align-items: end;
+        padding-right: 5%;
+        padding-bottom: 0px;
+    }
+    .info-leo-about-me ul{
+        width: 75%;
+    }
+    .info-leo-about-me a{
+        width: 75%;
+        display: unset;
+        justify-content: unset;
+        align-items: unset;
+    }
+    .info-leo-about-me button{
+        width: 100%;
+    }
+    .my-jobs-about-me{
+        width: 60%;
+        padding: 0;
+        flex-wrap: nowrap;
+        align-items: start;
+        padding-right: 100px;
+    }
+    .my-jobs-content{
+        width: 25%;
+        padding-right: 5px;
+        padding-left: 5px;
+    }
+    /* SECTION ABOUT ME */
+    /* SECTION SKILLS */
+    .skills-section{
+        height: 100vh;
+    }
+    .skills-title{
+        align-items: end;
+        padding-right: 50px;
+    }
+    .skills-title h2{
+        font-size: 8.85rem;
+        padding-right: 10%;
+    }
+    .skills-title p{
+        width: 60%;
+    }
+    .skills-content{
+        flex-wrap: nowrap;
+        flex-direction: row;
+    }
+    .skills-item{
+        width: 33%;
+    }
+    .skills-content-2{
+        flex-wrap: nowrap;
+    }
+    .skills-item-2{
+        width: 20%;
+    }
+    .skills-item-2 .img-skills-1{
+        left: 15px;
+    }
+    .skills-item-2 .img-skills-2{
+        right: 15px;
+    }
+    /* SECTION SKILLS */
+    /* EXP SECTION */
+    .exp-section{
+        height: 100vh;
+    }
+    .exp-title{
+        align-items: start;
+        padding-left: 20px;
+    }
+    .exp-title h2{
+        font-size: 6.35rem;
+    }
+    .exp-content{
+        flex-direction: row;
+        flex-wrap: nowrap;
+        padding-top: 100px;
+    }
+    .exp-item{
+        width: 30%;
+    }
+    /* EXP SECTION */
+    /*PROJECT SECTION*/
+    .project-section{
+        height: 100vh;
+    }
+    .project-title h2{
+        font-size: 6.5rem;
+    }
+    .project-title p{
+        font-size: 2.5rem;
+    }
+    .project-content{
+        flex-direction: row;
+        flex-wrap: nowrap;
+        padding-top: 100px;
+    }
+    .project-item{
+        width: 30%;
+        height: 284px;
+    }
+    /*PROJECT EXPANDED*/
+    .content-item-project{
+        flex-direction: row;
+    }
+    .img-project-expanded{
+        width: 50%;
+    }
+    .text-project-expanded{
+        width: 50%;
+        align-items: center;
+    }
+    .text-project-expanded h3{
+        width: 80%;
+    }
+    .text-project-expanded p{
+        width: 80%;
+    }
+    .project-expanded{
+        height: 100vh;
+    }
+    /*PROJECT EXPANDED*/
+    /*PROJECT SECTION*/
+    /* CONTACT SECTION */
+    .contact-section{
+        height: 120vh;
+    }
+    .contact-title{
+        align-items: end;
+    }
+    .contact-title h2{
+        font-size: 6.5rem;
+        padding-right: 100px;
+    }
+    .contact-title p{
+        font-size: 2rem;
+    }
+    .content-contact{
+        flex-direction: row;
+        justify-content: center;
+        align-items: start;
+        padding: 50px;
+    }
+    .form{
+        width: 80%;
+        padding: 40px;
+    }
+
+    .info-contact{
+        width: 20%;
+        align-items: end;
+        padding-right: 50px;
+        padding-top: unset;
+    }
+    .info-contact ul{
+        align-items: end;
+    }
+    .info-contact ul li{
+        width: 80%;
+        justify-content: start;
+        padding-left: 30px;
+    }
+
+    /*THANKS SECTION*/
+    .thanks-section{
+        padding-top: 150px;
+    }
+    .content-thanks{
+        width: 40%;
+    }
+    .content-thanks h1{
+        font-size: 2.5rem;
+    }
+    .content-thanks h2{
+        font-size: 1.5rem;
+    }
+    .content-thanks p{
+        font-size: 1.2rem;
+    }
+    .back-to-home{
+        padding-top: 80px;
+    }
+    .back-to-home button{
+        width: 30%;
+    }
+    /*THANKS SECTION*/
+    /*CONTACT SECTION*/
+
+    /* FOOTER */
+    .main-footer{
+        flex-direction: row;
+        align-items: start;
+    }
+    .container-footer{
+        width: 30%;
+    }
+    .container-footer:nth-child(1){
+        align-items: start;
+    }
+    .container-footer:nth-child(2){
+        align-items: center;
+    }
+    .container-footer:nth-child(3){
+        align-items: end;
+    }
+    .rights-footer{
+        display: unset;
+        flex-direction: unset;
+        justify-content: unset;
+        align-items: unset;
+    }
+    .nav-footer{
+        width: 30%;
+        justify-content: unset;
+        align-items: end;
+    }
+    /* FOOTER */
+
+}
+@media (min-width: 1366px){
+    /* SECTION SKILLS */
+    .skills-item{
+        width: 32%;
+    }
+    /* SECTION SKILLS */
+}
+@media (min-width: 1440px){
+    /* PERFIL EXPANDED */
+    .photo-expanded .div-photo-expanded{
+        width: 30%;
+    }
+    /* PERFIL EXPANDED */
+    /* SECTION WELCOME */
+    .text-welcome h1{
+        font-size: 3.5rem;
+    }
+    /* SECTION WELCOME */
+    /* SECTION ABOUT ME */
+    .title-about-me h2{
+        font-size: 7.5rem;
+    }
+    /* SECTION ABOUT ME */
+    /* SECTION SKILLS */
+    .skills-item{
+        width: 31%;
+    }
+    /* SECTION SKILLS */
+    /* EXP SECTION */
+    .exp-title{
+        padding-left: 50px;
+    }
+    .exp-title h2{
+        font-size: 7.5rem;
+    }
+    /* EXP SECTION */
+    /*PROJECT SECTION*/
+    .project-title{
+        padding-left: 20px;
+    }
+    .project-title h2{
+        font-size: 7.5rem;
+    }
+    .project-item{
+        height: 300px;
+    }
+
+    .project-expanded{
+        height: 80vh;
+    }
+    /*PROJECT SECTION*/
+    /*CONTACT SECTION*/
+    .contact-title h2{
+        font-size: 7.5rem;
+    }
+    .contact-title p{
+        font-size: 2.5rem;
+    }
+    /*CONTACT SECTION*/
+
+
+
+}
+@media (min-width: 1560px){
+    /* HEADER */
+    header{
+        height: 125px;
+    }
+    nav{
+        height: 125px;
+    }
+    .logo-portfolio{
+        font-size: 1.2rem;
+    }
+    .name-perfil{
+        font-size: 1.05rem;
+    }
+    .job-perfil{
+        font-size: 0.9rem;
+    }
+    .photo-perfil{
+        width: 90px;
+        height: 90px;
+    }
+    .menu-nav ul a i{
+        font-size: 1.5rem;
+    }
+    .menu-nav ul li{
+        font-size: 1.1rem;
+    }
+    /* HEADER */
+    /*ABOUT ME SECTION */
+    .about-me-section{
+        height: 100vh;
+    }
+    /*ABOUT ME SECTION */
+
+    /* SECTION SKILLS */
+    .skills-section{
+        height: 100vh;
+    }
+    .skills-item-2 .img-skills-1{
+        left: 30px;
+    }
+    .skills-item-2 .img-skills-2{
+        right: 30px;
+    }
+    /* SECTION SKILLS */
+    /* EXP SECTION */
+    .exp-section{
+        height: 100vh;
+    }
+    /* EXP SECTION */
+    /*PROJECT SECTION*/
+    .project-item{
+        height: 330px;
+    }
+    .project-section{
+        height: 100vh;
+    }
+    /*PROJECT SECTION*/
+    /* CONTACT SECTION */
+    .contact-section{
+        height: 100vh;
+    }
+    .contact-title h2{
+        font-size: 8rem;
+        padding-right: 150px;
+    }
+    .contact-title p{
+        font-size: 2.8rem;
+    }
+    .form{
+        width: 50%;
+    }
+    form h3{
+        font-size: 1.5rem;
+    }
+    .form label{
+        font-size: 1.1rem;
+    }
+    .info-contact{
+        width: 30%;
+    }
+    .info-contact p{
+        padding-right: unset;
+    }
+    .info-contact h2{
+        padding-right: unset;
+    }
+    .info-contact ul li{
+        width: 100%;
+        justify-content: end;
+    }
+    .info-contact button{
+        width: 55%;
+    }
+    /* THANKS SECTION */
+    .content-thanks h1{
+        font-size: 2.8rem;
+    }
+    .content-thanks h2{
+        font-size: 1.8rem;
+    }
+    .content-thanks p{
+        font-size: 1.5rem;
+    }
+    .content-thanks li{
+        font-size: 2.5rem;
+    }
+    .back-to-home button{
+        font-size: 1.3rem;
+        width: 35%;
+    }
+    /* THANKS SECTION */
+    /* CONTACT SECTION */
+    /* FOOTER */
+    .logo-footer{
+        font-size: 1.1rem;
+    }
+    .name-footer{
+        font-size: 1.05rem;
+    }
+    .job-footer{
+        font-size: 0.9rem;
+    }
+    .rights-footer{
+        font-size: 0.9rem;
+    }
+    
+    .title-social-footer{
+        font-size: 1.1rem;
+    }
+    .icon-linkedin-footer i{
+        font-size: 1.6rem;
+    }
+    .icon-linkedin-footer p{
+        font-size: 1.2rem;
+    }
+    .icon-github-footer i{
+        font-size: 1.6rem;
+    }
+    .icon-github-footer p{
+        font-size: 1.2rem;
+    }
+
+    .title-nav-footer{
+        font-size: 1.1rem;
+    }
+    .nav-footer li{
+        font-size: 1.05rem;
+    }
+    /* FOOTER */
+
+}
+@media (min-width: 1920px){
+    /* HEADER */
+    .logo-portfolio{
+        font-size: 1.4rem;
+    }
+    .perfil-menu{
+     width: 35%;   
+    }
+    .name-perfil{
+        font-size: 1.15rem;
+    }
+    .job-perfil{
+        font-size: 1rem;
+    }
+    .photo-perfil{
+        width: 100px;
+        height: 100px;
+    }
+    .menu-nav ul a i{
+        font-size: 1.6rem;
+    }
+    .menu-nav ul li{
+        font-size: 1.2rem;
+    }
+        /* PERFIL EXPANDED */
+        .photo-expanded .div-photo-expanded{
+            width: 25%;
+            height: 400px;
+        }
+        .photo-expanded .div-photo-expanded img{
+            height: 290px;
+            width: 290px;
+        }
+        .photo-expanded .div-photo-expanded p{
+            left: 20px;
+            font-size: 1.2rem;
+        }
+        .photo-expanded .icon-social-perfil ul a{
+            width: 45px;
+            height: 45px;
+        }
+        .photo-expanded .icon-social-perfil ul li{
+            width: 45px;
+            height: 45px;
+            list-style: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid #0A66C2;
+            overflow: hidden;
+            border-radius: 50%;
+        }
+        .icon-social-perfil ul li i{
+            color: #fff;    
+            font-size: 3rem;
+        }
+        /* PERFIL EXPANDED */
+    /* HEADER */
+    /* SECTION WELCOME */
+    .text-welcome h1{
+        font-size: 3.8rem;
+    }
+    .text-welcome p{
+        font-size: 1.7rem;
+    }
+    .button-scrollTo{
+        width: 70px;
+        height: 70px;
+    }
+    .button-scrollTo p{
+        font-size: 1.2rem;
+    }
+    .button-scrollTo i{
+        font-size: 2.2rem;
+        padding-left: 9rem;
+    }
+    /* SECTION WELCOME */
+    /* SECTION ABOUT ME */
+    .title-about-me h2{
+        font-size: 8rem;
+    }
+    .title-about-me p{
+        font-size: 3rem;
+    }
+    .info-about-me{
+        width: 85%;
+        padding-bottom: 40px;
+    }
+    .info-about-me h2{
+        font-size: 2.3rem;
+        padding-bottom: 60px;
+    }
+    .info-about-me p{
+        font-size: 1.3rem;
+    }
+    .my-career-about-me{
+        width: 85%;
+    }
+    .info-leo-about-me ul li{
+        font-size: 1.3rem;
+    }
+    .info-leo-about-me button{
+        font-size: 1.3rem;
+    }
+    .my-jobs-about-me h2{
+        font-size: 3.5rem;
+    }
+    .my-jobs-about-me p{
+        font-size: 1.2rem;
+    }
+    /* SECTION ABOUT ME */
+    /* SECTION SKILLS */
+    .skills-title h2{
+        font-size: 9.5rem;
+        padding-right: 11%;
+        
+    }
+    .skills-title p{
+        font-size: 3rem;
+        width: 50%;
+    }
+    .skills-item{
+        height: auto;
+    }
+    .skills-item div h3{
+        font-size: 1.5rem;
+    }
+    .skills-item div p{
+        font-size: 1.15rem;
+    }
+    .skills-item-2{
+        height: 400px;
+    }
+    .skills-item-2-content{
+        top: 250px;
+    }
+    .skills-item-2 .img-skills-1{
+        left: 50px;
+        width: 175px;
+        height: 175px;
+        top: 30px;
+    }
+    .skills-item-2 .img-skills-2{
+        right: 50px;
+        width: 175px;
+        height: 175px;
+        top: 30px;
+    }
+    .skills-item-2 .img-skills-nodeJS{
+        width: 175px;
+        height: 175px;
+        top: 30px;
+    }
+    .skills-item-2 .img-skills-php{
+        width: 175px;
+        height: 175px;
+        top: 30px;
+    }
+    .skills-item-2-content h3{
+        font-size: 1.5rem;
+    }
+    .skills-item-2-content p{
+        font-size: 1.2rem;
+    }
+    /* SECTION SKILLS */
+    /* EXP SECTION */
+    .exp-title h2{
+        font-size: 8.5rem;
+    }
+    .exp-title p{
+        width: 50%;
+        font-size: 3.5rem;
+    }
+    .exp-item h3{
+        font-size: 1.3rem;
+
+    }
+    .exp-item h4{
+        font-size: 1.2rem;
+    }
+    .exp-item p{
+        font-size: 1rem;
+    }
+    /* EXP SECTION */
+    /*PROJECT SECTION*/
+    .project-title h2{
+        font-size: 8.5rem;
+    }
+    .project-title p{
+        font-size: 3rem;
+    }
+    .project-item{
+        height: 420px;
+    }
+    .description-project{
+        bottom: 5px;
+    }
+    .project-item .title-project-item{
+        font-size: 2.3rem;
+    }
+    .project-item .stacks-project-item{
+        font-size: 2.9rem;
+    }
+    .description-project p{
+        font-size: 1rem;
+    }
+    .description-project button{
+        font-size: 1rem;
+    }
+    .project-content{
+        gap: 50px;
+    }
+    
+    /*PROJECT EXPANDED*/
+    .header-item-project h2{
+       font-size: 2rem; 
+    }
+    .text-project-expanded h3{
+        font-size: 1.2rem;
+    }
+    .text-project-expanded p{
+        font-size: 1.05rem;
+    }
+    /*PROJECT EXPANDED*/
+    /*PROJECT SECTION*/
+    /*CONTACT SECTION*/
+    .contact-title h2{
+        padding-right: 250px;
+        font-size: 8.5rem;
+    }
+    .contact-title p{
+        font-size: 3rem;
+    }
+    .info-contact p{
+        font-size: 1.5rem;
+    }
+    .info-contact h2{
+        font-size: 2rem;
+    }
+    .info-contact ul li{
+        font-size: 2.2rem;
+    }
+    .info-contact button{
+        font-size: 1.2rem;
+    }
+
+        /* THANKS SECTION */
+        .content-thanks h1{
+            font-size: 3.3rem;
+        }
+        .content-thanks h2{
+            font-size: 2.3rem;
+        }
+        .content-thanks p{
+            font-size: 1.8rem;
+        }
+        .content-thanks li{
+            font-size: 3rem;
+        }
+        .back-to-home button{
+            font-size: 1.5rem;
+            width: 35%;
+        }
+        /* THANKS SECTION */
+    /*CONTACT SECTION*/
+    /* FOOTER */
+    .logo-footer{
+        font-size: 1.2rem;
+    }
+    .name-footer{
+        font-size: 1.15rem;
+    }
+    .job-footer{
+        font-size: 1rem;
+    }
+    .rights-footer{
+        font-size: 1rem;
+    }
+    
+    .title-social-footer{
+        font-size: 1.2rem;
+    }
+    .icon-linkedin-footer i{
+        font-size: 1.7rem;
+    }
+    .icon-linkedin-footer p{
+        font-size: 1.3rem;
+    }
+    .icon-github-footer i{
+        font-size: 1.7rem;
+    }
+    .icon-github-footer p{
+        font-size: 1.3rem;
+    }
+
+    .title-nav-footer{
+        font-size: 1.2rem;
+    }
+
+    .nav-footer li{
+        font-size: 1.15rem;
+    }
+    /* FOOTER */
+
+}
+@media (min-width: 2560px){
+    /* HEADER */
+    header{
+        height: 150px;
+    }
+    nav{
+        height: 150px;
+    }
+    .logo-portfolio{
+        font-size: 1.6rem;
+    }
+    .name-perfil{
+        font-size: 1.3rem;
+    }
+    .job-perfil{
+        font-size: 1.15rem;
+    }
+    .photo-perfil{
+        width: 120px;
+        height: 120px;
+    }
+    .menu-nav ul a i{
+        font-size: 1.8rem;
+    }
+    .menu-nav ul li{
+        font-size: 1.3rem;
+    }
+
+    /* HEADER */
+    /* SECTION WELCOME */
+    .text-welcome h1{
+        font-size: 4rem;
+    }
+    .text-welcome p{
+        font-size: 2rem;
+    }
+    .button-scrollTo{
+        width: 80px;
+        height: 80px;
+    }
+    .button-scrollTo:hover{
+        width: 230px;
+    }
+    .button-scrollTo p{
+        font-size: 1.4rem;
+    }
+    .button-scrollTo i{
+        font-size: 2.4rem;
+        padding-left: 10.5rem;
+    }
+    /* SECTION WELCOME */
+    /* SECTION ABOUT ME */
+    .title-about-me h2{
+        font-size: 8.5rem;
+    }
+    .title-about-me p{
+        font-size: 3.5rem;
+    }
+    .info-about-me h2{
+        font-size: 2.6rem;
+    }
+    .my-jobs-about-me h2{
+        font-size: 4rem;
+    }
+    .my-jobs-about-me p{
+        font-size: 1.3rem;
+    }
+    /* SECTION ABOUT ME */
+    /* SECTION SKILLS */
+    .skills-title h2{
+        font-size: 10.85rem;
+        padding-right: 10%;
+        
+    }
+    .skills-title p{
+        font-size: 3.5rem;
+        width: 45%;
+    }
+    .skills-item div h3{
+        font-size: 1.8rem;
+    }
+    .skills-item div p{
+        font-size: 1.3rem;
+    }
+    .skills-item-2{
+        width: 21.5%;
+    }
+    .skills-item-2 .img-skills-1{
+        left: 100px;
+        width: 200px;
+        height: 200px;
+        top: 30px;
+    }
+    .skills-item-2 .img-skills-2{
+        right: 100px;
+        width: 200px;
+        height: 200px;
+        top: 30px;
+    }
+    .skills-item-2 .img-skills-nodeJS{
+        width: 200px;
+        height: 200px;
+        top: 30px;
+    }
+    .skills-item-2 .img-skills-php{
+        width: 200px;
+        height: 200px;
+        top: 30px;
+    }
+    .skills-item-2-content h3{
+        font-size: 1.8rem;
+    }
+    .skills-item-2-content p{
+        font-size: 1.3rem;
+    }
+    /* SECTION SKILLS */
+    /* EXP SECTION */
+    .exp-item{
+        height: 300px;
+    }
+    .exp-title h2{
+        font-size: 9.5rem;
+    }
+    .exp-title p{
+        width: 45%;
+        font-size: 4.5rem;
+    }
+    .exp-item h3{
+        font-size: 1.5rem;
+
+    }
+    .exp-item h4{
+        font-size: 1.4rem;
+    }
+    .exp-item p{
+        font-size: 1.1rem;
+    }
+    /* EXP SECTION */
+    /*PROJECT SECTION*/
+    .project-title h2{
+        font-size: 9.5rem;
+    }
+    .project-title p{
+        font-size: 3.5rem;
+    }
+    .project-item .title-project-item{
+        font-size: 2.3rem;
+    }
+    .project-item .stacks-project-item{
+        font-size: 2.9rem;
+    }
+    .project-item{
+        height: 480px;
+    }
+    .description-project{
+        bottom: 5px;
+    }
+    .description-project p{
+        font-size: 1rem;
+    }
+    .description-project button{
+        font-size: 1rem;
+    }
+    .project-content{
+        gap: 50px;
+    }
+
+    /*PROJECT EXPANDED*/
+    .header-item-project h2{
+        font-size: 2.5rem; 
+    }
+    .text-project-expanded h3{
+        font-size: 1.5rem;
+    }
+    .text-project-expanded p{
+        font-size: 1.2rem;
+    }
+    /*PROJECT EXPANDED*/
+    /*PROJECT SECTION*/
+
+
+
+    /*CONTACT SECTION*/
+    .contact-title h2{
+        padding-right: 350px;
+        font-size: 9rem;
+    }
+    .contact-title p{
+        font-size: 3.2rem;
+    }
+    form h3{
+        font-size: 1.7rem;
+    }
+    .form label{
+        font-size: 1.3rem;
+    }
+    .info-contact p{
+        font-size: 1.7rem;
+    }
+    .info-contact h2{
+        font-size: 2.2rem;
+    }
+    .info-contact ul li{
+        font-size: 2.4rem;
+    }
+    .info-contact button{
+        font-size: 1.4rem;
+    }
+
+            /* THANKS SECTION */
+            .thanks-section{
+                padding-top: 200px;
+            }
+            .content-thanks{
+                width: 35%;
+            }
+            .content-thanks h1{
+                font-size: 4rem;
+            }
+            .content-thanks h2{
+                font-size: 2.8rem;
+            }
+            .content-thanks p{
+                font-size: 2.2rem;
+            }
+            .content-thanks li{
+                font-size: 3.5rem;
+            }
+            .back-to-home button{
+                font-size: 1.8rem;
+                width: 40%;
+            }
+            /* THANKS SECTION */
+    /*CONTACT SECTION*/
+    /* FOOTER */
+    .logo-footer{
+        font-size: 1.3rem;
+    }
+    .name-footer{
+        font-size: 1.25rem;
+    }
+    .job-footer{
+        font-size: 1.1rem;
+    }
+    .rights-footer{
+        font-size: 1.1rem;
+    }
+    
+    .title-social-footer{
+        font-size: 1.3rem;
+    }
+    .icon-linkedin-footer i{
+        font-size: 1.8rem;
+    }
+    .icon-linkedin-footer p{
+        font-size: 1.4rem;
+    }
+    .icon-github-footer i{
+        font-size: 1.8rem;
+    }
+    .icon-github-footer p{
+        font-size: 1.4rem;
+    }
+
+    .title-nav-footer{
+        font-size: 1.3rem;
+    }
+
+    .nav-footer li{
+        font-size: 1.25rem;
+    }
+    /* FOOTER */
+}
