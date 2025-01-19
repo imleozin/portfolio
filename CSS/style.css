@@ -1763,6 +1763,37 @@ footer{
 
 /***************************** FOOTER ************************************/
 
+/***************************** WHATSAPP BUTTON ************************************/
+.button-whatsapp{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #0A66C2;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.3s ease;
+}
+.button-whatsapp a{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-whatsapp:hover{
+    transform: scale(1.2);
+}
+.button-whatsapp i{
+    font-size: 2rem;
+    color: #fff;
+}
+/***************************** WHATSAPP BUTTON ************************************/
+
 /***************************** WEBKIT ************************************/
 /* Firefox e Opera */
 html {

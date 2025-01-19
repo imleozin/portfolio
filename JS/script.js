@@ -3,10 +3,6 @@
 const toggleMenu = document.querySelector('.toggle-menu');
 const menu = document.querySelector('.menu-nav');
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 6cb0123a85f6026ff6a604ba70411e505fc0d782
 toggleMenu.onclick = () => {
     menu.classList.toggle('active');
 };
@@ -14,11 +10,8 @@ toggleMenu.onclick = () => {
 menu.onmouseleave = () => {
     menu.classList.remove('active');
 }
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 6cb0123a85f6026ff6a604ba70411e505fc0d782
 // MENU DE NAVEGAÇÃO
 
 
@@ -242,18 +235,5 @@ document.addEventListener("DOMContentLoaded", () => {
     window.addEventListener("scroll", checkVisibility);
     checkVisibility();
 });
-<<<<<<< HEAD
-=======
-
-
-
-
-
-
-
-
-
-
->>>>>>> 6cb0123a85f6026ff6a604ba70411e505fc0d782
 //ANIMAÇÕES DOCUMENT
 
